@@ -1,0 +1,19 @@
+{
+    "os": "Linux-4.4.0-19041-Microsoft-x86_64-with-debian-bullseye-sid",
+    "python": "3.7.12",
+    "heartbeatAt": "2022-01-02T03:03:23.966727",
+    "startedAt": "2022-01-02T03:03:19.964209",
+    "docker": null,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/home/jsmit244/.local/share/jupyter/runtime/kernel-02f10b2e-dd49-4e43-8f36-e1720c2024d7.json"
+    ],
+    "state": "running",
+    "program": "Untitled.ipynb",
+    "root": "/mnt/c/Users/jerem/OneDrive/Desktop/udacity_devops/udacity_mlDevOps_sec2",
+    "host": "LAPTOP-S0MPVJI3",
+    "username": "jsmit244",
+    "executable": "/home/jsmit244/miniconda3/envs/udacity_mlDevOps/bin/python"
+}
